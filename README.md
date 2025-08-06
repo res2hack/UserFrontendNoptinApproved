@@ -57,6 +57,7 @@ For support or feature requests, please contact the plugin author (restu.gandhi@
 
 This plugin is licensed under the GPL v3 or later. 
 
-##Business Inquiries
+# Business Inquiries
 We are open to business contracts and collaborations.
+
 Please reach out via email: restu.gandhi@gmail.com
